@@ -99,7 +99,7 @@ h2{
     position: relative;
 }
 .cursos .titulo::before{
-    position: relative;
+    position: absolute;
     width: 13px;
     height: 13px;
     background-color: #000;
